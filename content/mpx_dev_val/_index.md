@@ -5,6 +5,19 @@ date: 2022-12-20
 
 <br>
 
+**BACKGROUND**
+
+Clinical severity scores facilitate standardized quantitative comparison of disease severity between groups of patients to understand risk factors for severe illness and evaluate treatment efficacy. Relevant severity scoring tools provide reliable discrimination across the spectrum of illness severity and are parsimonious, easy to use, and universally applicable. Prior mpox severity scores, based on numbers of skin lesions and individual functional capacity, have been less applicable to the 2022 outbreak.
+
+<br>
+
+**CORRELATION MATRIX**
+
+Correlation Matrix by Color Shades     |  Correlation Matrix by Coefficients
+:-------------------------:|:-------------------------:
+![**Matrix 1A: Monkeypox Severity Score Correlation Matrix 1**](Matrix_1A.png)  |  ![**Matrix 1B: Monkeypox Severity Score Correlation Matrix 2**](Matrix_1B.png)
+
+
 **METHODS**
 
 Using expert opinion and literature review, we developed an MPOX-SSS with an initial set of possible variables that we refined based on data availability, prior association with severity, and parameter correlation to include 7 final elements: number of active lesions, anatomic extent of lesion involvement, presence of confluent lesions, presence of bacterial superinfection, extent of mucosal areas affected, level of care, and analgesia requirement (tool available at mpoxseverityscore.com). We piloted this MPOX-SSS via a retrospective chart review at a single academic urban medical center and compared scores using the Wilcoxon rank sum test.
@@ -17,9 +30,21 @@ Among the first 200 patients presenting with mpox (median age 34, 99% born male,
 
 <br>
 
+**CONCLUSIONS**
+
+Our pilot MPOX-SSS was able to produce a severity score retrospectively from 86% of charts, demonstrated good discrimination with statistically higher scores in groups expected to have more severe disease, and was able to distinguish change over time for individual patients that correlated with clinical illness. We propose this tool be assessed for utility in clinical trials of mpox treatment, in prospective observational cohort studies, and in comparisons of illness caused by different mpox clades.
+
+<br>
+
 **FIGURES**
 
-**Figure 1A: Monkeypox Severity Score Distribution by HIV Status**
+**Figure 1C: Monkeypox Severity Score Distribution by HIV Status**
+![**Figure 1C: Monkeypox Severity Score Distribution by HIV Status**](Figure_1C.png)
+
+**Figure 1D: Monkeypox Severity Score Distribution by Treatment**
+![**Figure 1D: Monkeypox Severity Score Distribution by Treatment**](Figure_1D.png)
+
+**Figure 1A: Monkeypox Severity Score Distribution by HIV Status and CD4 Counts**
 ![**Figure 1A: Monkeypox Severity Score Distribution by HIV Status**](Figure_1A.png)
 
 **Figure 1B: Monkeypox Severity Score Overtime**

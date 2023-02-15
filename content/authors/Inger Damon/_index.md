@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Jacob McLean
-weight: 2
+title: Inger Damon
+weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - Jacob McLean
+  - Inger Damon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Infectious Diseases Fellow
+role: Director of the Division of High-Consequence Pathogens and Pathology
 
 # Organizations/Affiliations
 organizations:
-  - name: NYP/CUMC
+  - name: Centers for Disease Control and Prevention
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

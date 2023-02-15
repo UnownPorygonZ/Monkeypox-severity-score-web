@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Jacob McLean
-weight: 2
+title: Clare DeLaurentis
+weight: 4
 
 # Username (this should match the folder name)
 authors:
-  - Jacob McLean
+  - Clare DeLaurentis
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: Infectious Diseases Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: NYP/CUMC
+  - name: CUMC/NYP
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

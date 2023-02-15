@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Jacob McLean
-weight: 2
+title: Kate Stoeckle
+weight: 6
 
 # Username (this should match the folder name)
 authors:
-  - Jacob McLean
+  - Kate Stoeckle
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Infectious Diseases Fellow
+role: Physician
 
 # Organizations/Affiliations
 organizations:
-  - name: NYP/CUMC
+  - name: Weill Cornell Medicine/NYP
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

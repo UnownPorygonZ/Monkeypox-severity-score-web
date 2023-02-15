@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jason Zucker
-weight: 5
+weight: 1
 
 # Username (this should match the folder name)
 authors:
@@ -11,11 +11,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Medicine at CUMC
+role: Physician/Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Columbia University Irving Medical Center
+  - name: NewYork-Presbyterian Hospital/Columbia University Irving Medical Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - MPOX Severity Score Development Team
 ---
 

@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Jacob McLean
-weight: 2
+title: John T. Brooks
+weight: 11
 
 # Username (this should match the folder name)
 authors:
-  - Jacob McLean
+  - John T. Brooks
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Infectious Diseases Fellow
+role: Medical Epidemiologist
 
 # Organizations/Affiliations
 organizations:
-  - name: NYP/CUMC
+  - name: National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-  - Infectious Diseases
+  - HIV/AIDS
   #- Computational Linguistics
   #- Information Retrieval
 

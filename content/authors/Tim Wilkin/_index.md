@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Jacob McLean
-weight: 2
+title: Tim Wilkin
+weight: 8
 
 # Username (this should match the folder name)
 authors:
-  - Jacob McLean
+  - Tim Wilkin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Infectious Diseases Fellow
+role: Investigators
 
 # Organizations/Affiliations
 organizations:
-  - name: NYP/CUMC
+  - name: Weill Cornell Medicine
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

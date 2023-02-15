@@ -1,27 +1,29 @@
 ---
 # Display name
-title: Jacob McLean
-weight: 2
+title: Shauna Gunaratne
+weight: 5
 
 # Username (this should match the folder name)
 authors:
-  - Jacob McLean
+  - Shauna Gunaratne
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Infectious Diseases Fellow
+role: Assistant Professor of Medicine at CUMC, Associate Program Director for the Infectious Diseases Fellowship Program
 
 # Organizations/Affiliations
 organizations:
-  - name: NYP/CUMC
+  - name: CUMC/NYP
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 
 interests:
-  - Infectious Diseases
+  - Management of patients living with HIV/AIDS and opportunistic infections
+  - HIV primary care
+  - PrEP, PEP and STI services
   #- Computational Linguistics
   #- Information Retrieval
 

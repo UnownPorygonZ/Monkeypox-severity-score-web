@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Esther Huang
-weight: 10
+weight: 3
 
 # Username (this should match the folder name)
 authors:
@@ -11,15 +11,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Manager at CUMC
+role: Data Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Columbia University Irving Medical Center
+  - name: CUMC
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-
 interests:
   - Infectious Diseases
   #- Computational Linguistics
@@ -68,6 +67,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - MPOX Severity Score Development Team
 ---
 
