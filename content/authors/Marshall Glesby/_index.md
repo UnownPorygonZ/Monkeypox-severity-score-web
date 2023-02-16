@@ -15,7 +15,7 @@ role: Infectious Diseases Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: Weill Cornell Medicine/NYP
+  - name: Weill Cornell Medicine
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

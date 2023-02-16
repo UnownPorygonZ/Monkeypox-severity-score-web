@@ -11,12 +11,6 @@ Clinical severity scores facilitate standardized quantitative comparison of dise
 
 <br>
 
-**CORRELATION MATRIX**
-
-Correlation Matrix by Color Shades     |  Correlation Matrix by Coefficients
-:-------------------------:|:-------------------------:
-![**Matrix 1A: Monkeypox Severity Score Correlation Matrix 1**](Matrix_1A.png)  |  ![**Matrix 1B: Monkeypox Severity Score Correlation Matrix 2**](Matrix_1B.png)
-
 
 **METHODS**
 
@@ -24,9 +18,32 @@ Using expert opinion and literature review, we developed an MPOX-SSS with an ini
 
 <br>
 
+**CORRELATION MATRIX**
+
+Correlation Matrix by Color Shades     |  Correlation Matrix by Coefficients
+:-------------------------:|:-------------------------:
+![**Matrix 1A: Monkeypox Severity Score Correlation Matrix 1**](Matrix_1A.png)  |  ![**Matrix 1B: Monkeypox Severity Score Correlation Matrix 2**](Matrix_1B.png)
+
+
+<br>
+
 **RESULTS**
 
 Among the first 200 patients presenting with mpox (median age 34, 99% born male, 38% Hispanic, 28% Black, 49% with HIV [10% CD4 count <200 cells/mm3 or VL>1000 copies/mL], 57% treated with tecovirimat), an MPOX-SSS score could be calculated for 86%; missing data that precluded scoring included lesion number (13%) and presence of confluent lesions (7%). Median scores were similar in patients with and without HIV (8 vs 9, p=0.12)(Figure 1A). Scores were higher in patients treated with tecovirimat (10 vs 4, p<0.001), patients with CD4 counts <200 cells/mm3 (10 vs 8, p=0.073), and patients presenting >3 days after symptom onset (9 vs 6, p=0.007). For a subset of individuals with multiple visits for mpox, changes in MPOX-SSS scores were detected and concordant with clinical experience (Figure 1B).
+
+**Figures**
+
+**FIGURES**
+
+Monkeypox Severity Score Distribution by HIV Status   |  Monkeypox Severity Score Distribution by Treatment
+:-------------------------:|:-------------------------:
+![**Figure 1C: Monkeypox Severity Score Distribution by HIV Status**](Figure_1C.png)  |  ![**Figure 1D: Monkeypox Severity Score Distribution by Treatment**](Figure_1D.png)
+
+**Figure 1A: Monkeypox Severity Score Distribution by HIV Status and CD4 Counts**
+![**Figure 1A: Monkeypox Severity Score Distribution by HIV Status**](Figure_1A.png)
+
+**Figure 1B: Monkeypox Severity Score Overtime**
+![**Figure 1B: Monkeypox Severity Score Overtime**](Figure_1B.png)
 
 <br>
 
@@ -34,19 +51,4 @@ Among the first 200 patients presenting with mpox (median age 34, 99% born male,
 
 Our pilot MPOX-SSS was able to produce a severity score retrospectively from 86% of charts, demonstrated good discrimination with statistically higher scores in groups expected to have more severe disease, and was able to distinguish change over time for individual patients that correlated with clinical illness. We propose this tool be assessed for utility in clinical trials of mpox treatment, in prospective observational cohort studies, and in comparisons of illness caused by different mpox clades.
 
-<br>
-
-**FIGURES**
-
-**Figure 1C: Monkeypox Severity Score Distribution by HIV Status**
-![**Figure 1C: Monkeypox Severity Score Distribution by HIV Status**](Figure_1C.png)
-
-**Figure 1D: Monkeypox Severity Score Distribution by Treatment**
-![**Figure 1D: Monkeypox Severity Score Distribution by Treatment**](Figure_1D.png)
-
-**Figure 1A: Monkeypox Severity Score Distribution by HIV Status and CD4 Counts**
-![**Figure 1A: Monkeypox Severity Score Distribution by HIV Status**](Figure_1A.png)
-
-**Figure 1B: Monkeypox Severity Score Overtime**
-![**Figure 1B: Monkeypox Severity Score Overtime**](Figure_1B.png)
 

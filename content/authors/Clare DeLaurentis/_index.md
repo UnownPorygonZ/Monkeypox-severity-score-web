@@ -11,11 +11,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Infectious Diseases Fellow
+role: Vagelos College of Physician and Surgeons, Columbia University Irving Medical Center
 
 # Organizations/Affiliations
 organizations:
-  - name: CUMC/NYP
+  - name: Vagelos College of Physician and Surgeons, Columbia University Irving Medical Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

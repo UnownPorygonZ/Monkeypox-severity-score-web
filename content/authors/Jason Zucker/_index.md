@@ -15,7 +15,7 @@ role: Physician/Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: NewYork-Presbyterian Hospital/Columbia University Irving Medical Center
+  - name: Vagelos College of Physician and Surgeons, Columbia University Irving Medical Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
