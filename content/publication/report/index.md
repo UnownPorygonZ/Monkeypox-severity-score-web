@@ -2,7 +2,18 @@
 title: 'Posttreatment Lesions After Tecovirimat Treatment for Mpox - New York City, August-September 2022'
 authors:
   - Leah Seifu
+  - Elizabeth Garcia
+  - Tristan D. McPherson
+  - Maura Lash
+  - Karen A. Alroy
+  - Mary Foote
+  - Ellen H. Lee
+  - Jeffrey Kwong
+  - Asa Radix
+  - Paul Riska
   - Jason Zucker
+  - Sarah Zuercher
+  - Marcia Wong
 date: '2023-04-28'
 doi: 'http://dx.doi.org/10.15585/mmwr.mm7217a5'
 
@@ -24,7 +35,6 @@ tags:
 featured: false
 
 links:
-url_pdf: https://www.cdc.gov/mmwr/volumes/72/wr/pdfs/mm7217a5-H.pdf
 
 ---
 
