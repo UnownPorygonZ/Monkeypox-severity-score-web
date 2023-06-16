@@ -15,7 +15,7 @@ role: Data Manager
 
 # Organizations/Affiliations
 organizations:
-  - name: Division of Infectious Diseases, Columbia University Irving Medical Center
+  - name: Columbia University Irving Medical Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

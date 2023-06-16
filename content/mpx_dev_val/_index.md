@@ -1,6 +1,6 @@
 ---
-title: Monkeypox Severity Score Development and Validation
-date: 2022-12-20
+title: "Monkeypox Severity Score Development and Validation"
+date: '2022-12-20'
 ---
 
 <br>

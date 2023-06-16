@@ -15,7 +15,7 @@ role: Assistant Professor of Medicine at CUMC, Associate Program Director for th
 
 # Organizations/Affiliations
 organizations:
-  - name: Vagelos College of Physician and Surgeons, Columbia University Irving Medical Center
+  - name: Columbia University Irving Medical Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
